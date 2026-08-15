@@ -39,7 +39,7 @@ CSC360_AU2420181/
 
 | File | Lecture Topic | Date | Status |
 |------|----------------|------|--------|
-| [Lecture1.md](reflection_journal/Lecture1.md) | Introduction Session |  | Complete |
+| [Lecture1.md](reflection_journal/Lecture1.md) | Introduction to Computer Graphics: Foundations, Geometric Primitives, and Graphics Frameworks |  | Complete |
 | [Lecture2.md](reflection_journal/Lecture2.md) | Getting Started & Vector Graphics |  | Complete |
 | [Lecture3.md](reflection_journal/Lecture3.md) |  |  | Complete |
 
