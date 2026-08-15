@@ -37,11 +37,11 @@ CSC360_AU2420181/
 
 ## Reflection Journal
 
-| File | Lecture Topic | Date | Status |
+| File | Lecture Topic | Lecture Date | Status |
 |------|----------------|------|--------|
-| [Lecture1.md](reflection_journal/Lecture1.md) | Introduction to Computer Graphics: Foundations, Geometric Primitives, and Graphics Frameworks |  | Complete |
-| [Lecture2.md](reflection_journal/Lecture2.md) | SSH, Version Control & Graphics Fundamentals |  | Complete |
-| [Lecture3.md](reflection_journal/Lecture3.md) | Setting Up the Java Graphics Development Environment |  | Complete |
+| [Lecture1.md](reflection_journal/Lecture1.md) | Introduction to Computer Graphics: Foundations, Geometric Primitives, and Graphics Frameworks | 04/07/2026 | Complete |
+| [Lecture2.md](reflection_journal/Lecture2.md) | SSH, Version Control & Graphics Fundamentals | 06/07/2026 | Complete |
+| [Lecture3.md](reflection_journal/Lecture3.md) | Setting Up the Java Graphics Development Environment | 13/07/2026 | Complete |
 
 ## Programs & Source Code
 
