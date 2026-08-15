@@ -2,24 +2,16 @@
 
 # Course Reflection Journal
 
-This repository contains my reflection journals and study notes for my university course, **CSC360: Computer Graphics and Digital Image Processing**, taken as part of the Monsoon Semester 2026 at Ahmedabad University.
+This repository contains my reflection journals and sample programs for my university course, **CSC360: Computer Graphics and Digital Image Processing**, taken as part of the Monsoon Semester 2026.
 
-The purpose of this repository is to document my learning after every lecture by reflecting on the concepts discussed in class rather than simply recording lecture notes. Each reflection is intended to reinforce my understanding, connect ideas across lectures, and serve as a resource for future revision.
-
-As instructed by the course instructor, the reflection journals focus on:
-
-- Key learnings from each lecture
-- Concepts that became clearer during class
-- Personal understanding of the material
-- Connections between different topics
-- Areas that require further revision or exploration
+This repository documents my coursework for CSC360, combining hands-on Java implementations of graphics concepts with lecture-wise reflection journals.
 
 ## Repository Contents
 
 This repository includes:
-
-- **programs** – Sample code and practicals for concepts covered in lectures.
-- **reflection_journal** – Structured reflections on lecture content, written using Bloom's Taxonomy as the organizational framework (Remember, Understand, Apply, Analyze, Evaluate, Create).
+ 
+- **programs** – Sample codes written to implement and understand the concepts taught in lectures. These programs serve as hands-on practice, helping translate theoretical graphics concepts into working implementations.
+- **reflection_journal** – Lecture-wise reflection notes summarizing the concepts covered in class. Each entry includes key definitions, relevant examples, explanations discussed during the session, and, where applicable, how the topic connects to concepts from earlier lectures.
 
 ## Repository Structure
 
@@ -48,10 +40,3 @@ CSC360_AU2420181/
 | File | Description | Status |
 |------|--------------|--------|
 | [samplecode](programs/samplecode) | A basic Java Swing/AWT program that creates a window and draws a blue square using the Graphics2D class. It demonstrates the basic structure of a Java graphics program, including JPanel, paintComponent(), colors, and strokes. | Complete |
-
-## Course Details
-
-- **Course Code:** CSC360
-- **Course Title:** Computer Graphics and Digital Image Processing
-- **Semester:** Monsoon Semester 2026
-- **Institution:** Ahmedabad University
