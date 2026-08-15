@@ -41,7 +41,7 @@ CSC360_AU2420181/
 |------|----------------|------|--------|
 | [Lecture1.md](reflection_journal/Lecture1.md) | Introduction to Computer Graphics: Foundations, Geometric Primitives, and Graphics Frameworks |  | Complete |
 | [Lecture2.md](reflection_journal/Lecture2.md) | SSH, Version Control & Graphics Fundamentals |  | Complete |
-| [Lecture3.md](reflection_journal/Lecture3.md) |  |  | Complete |
+| [Lecture3.md](reflection_journal/Lecture3.md) | Setting Up the Java Graphics Development Environment |  | Complete |
 
 ## Programs & Source Code
 
