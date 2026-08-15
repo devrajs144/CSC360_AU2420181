@@ -1,6 +1,5 @@
-# CSC360_AU2420181
+# CSC360 Course Repository
 
-# Course Reflection Journal
 
 This repository contains my reflection journals and sample programs for my university course, **CSC360: Computer Graphics and Digital Image Processing**, taken as part of the Monsoon Semester 2026.
 
@@ -35,7 +34,7 @@ CSC360_AU2420181/
 | [Lecture2.md](reflection_journal/Lecture2.md) | SSH, Version Control & Graphics Fundamentals | 06/07/2026 | Complete |
 | [Lecture3.md](reflection_journal/Lecture3.md) | Setting Up the Java Graphics Development Environment | 13/07/2026 | Complete |
 
-## Programs & Source Code
+## Programs
 
 | File | Description | Status |
 |------|--------------|--------|
