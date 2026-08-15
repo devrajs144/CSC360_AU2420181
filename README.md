@@ -47,7 +47,7 @@ CSC360_AU2420181/
 
 | File | Description | Status |
 |------|--------------|--------|
-| [samplecode](programs/samplecode) |  | Complete |
+| [samplecode](programs/samplecode) | A basic Java Swing/AWT program that creates a window and draws a blue square using the Graphics2D class. It demonstrates the basic structure of a Java graphics program, including JPanel, paintComponent(), colors, and strokes. | Complete |
 
 ## Course Details
 
