@@ -1,7 +1,7 @@
 # CSC360 Course Repository
 
 
-This repository contains my reflection journals and sample programs for my university course, **CSC360: Computer Graphics and Digital Image Processing**, taken as part of the Monsoon Semester 2026.
+This repository contains my reflection journals and sample programs for my university course, CSC360: Computer Graphics and Digital Image Processing, taken as part of the Monsoon Semester 2026.
 
 This repository documents my coursework for CSC360, combining hands-on Java implementations of graphics concepts with lecture-wise reflection journals.
 
